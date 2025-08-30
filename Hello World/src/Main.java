@@ -14,7 +14,12 @@
 * int number - declaration of the variable "number"
 * int number = 5, --> Initialization of the variable "number"
  */
-
+/*
+* Scanner scanner = new Scanner(system.in)
+* scanner.nextInt() - Gets Integer number from user
+* scanner.next() - Gets String from user
+*
+ */
 
 /*
 * DATATYPES
@@ -28,3 +33,4 @@ public class Main {
         System.out.println("Hello World");
         }
     }
+
